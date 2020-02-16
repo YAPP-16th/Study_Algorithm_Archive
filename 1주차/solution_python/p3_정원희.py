@@ -7,4 +7,3 @@ def count(a):
     return answer
 
 print(count(a))
-
