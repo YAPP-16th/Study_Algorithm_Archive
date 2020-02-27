@@ -48,8 +48,4 @@ while searchList:
 
         count = max(nList[xx][yy], count)
 
-    # for i in range(N):
-    #     for j in range(M):
-    #         print(nList[i][j], end=" ")
-    #     print()
 print(count)
