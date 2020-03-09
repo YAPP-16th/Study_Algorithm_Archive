@@ -38,6 +38,13 @@
 
 감사합니다. 이번 주도 행복한 한 주 되셔요~ :smile:
 
+### 5주차 문제 리스트
+
+1. [9663 N-Queen](https://www.acmicpc.net/problem/9663)
+2. [1987 알파벳](https://www.acmicpc.net/problem/1987)
+3. [2437 저울](https://www.acmicpc.net/problem/2437)
+
+
 ## 3주차 공지
 
 문제 출제가 많이 늦었습니다. 아래의 링크, 혹은 새로운 이슈로 3문제를 올려놓았으니, 확인해주세요.
