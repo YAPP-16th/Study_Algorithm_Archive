@@ -23,6 +23,14 @@
 └── README.md
 ```
 
+## 6주차 알고리즘 공지
+
+### 6주차 문제 리스트
+
+1. [4796 캠핑](https://www.acmicpc.net/problem/4796)
+2. [1969 DNA](https://www.acmicpc.net/problem/1969)
+3. [1931 회의실 배정](https://www.acmicpc.net/problem/1931)
+
 ## 5주차 알고리즘 공지
 
 풀이 참여율이 저조하여, 4주차 문제를 5주차로 이월하겠습니다.
